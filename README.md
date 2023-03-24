@@ -2,7 +2,7 @@
 
 Beschreibung: Implementierung und Analyse von verschiedenen Convolutional Neural Networks zur Klassifikation von Bilddaten in Python im Rahmen einer Masterthesis. Der FER2013-Datensatz diente hierbei als Datengrundlage und kann frei zugänglich von [Kaggle](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge) bezogen werden 
 
-Die Implementierung ist in vier Abschnitt eingeteilt. Die in JupyterLab und GoogleColab entwickelten Python Dateien bauen in der folgenden Reihenfolge aufeinander auf: sind 
+Die Implementierung ist in vier Abschnitt eingeteilt. Die in JupyterLab und GoogleColab entwickelten Python Dateien bauen in der folgenden Reihenfolge aufeinander auf: 
 1. Datenimport, -analyse, -vorverarbeitung
 2. Modellierung und Finetuning
 3. Evaluation
